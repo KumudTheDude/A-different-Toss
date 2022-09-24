@@ -12,7 +12,7 @@ while j< 10:
     b = random.choice(a) 
     print(a)
     print(" ")
-    print("                                  The system has randomly selected :  ",b)
+    print("                                  The Randomly Selected Number is:  ",b)
     if b <num/2:
         print("  ")
         print("                                 ", "Half of", num, " is " ,num/2, "     and       ", b," < ",num/2) 
