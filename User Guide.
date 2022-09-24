@@ -19,5 +19,7 @@ this plays a crucial in role deciding the winner of the match
 3. Hit Enter
 4. A random number is selected
 
+Also, This programme tells by how much did the loser lose the match (Technicals of the loser).
 
-Also, This programme tells by how much did the loser lose by (Technicals of the loser)
+
+!! Extreamly Large numbers like 99999999999 could crash the file !!
